@@ -21,3 +21,8 @@
 
 * **Distiller:**  [github|distiller](https://github.com/NervanaSystems/distiller)    [doc](https://nervanasystems.github.io/distiller)
 * **Jetson:**  [github|Jetson_interface /包含doc](https://github.com/dusty-nv/jetson-inference)
+
+
+#### pytorch architecture     
+[PyTorch – Internal Architecture Tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/)
+
