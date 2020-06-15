@@ -17,8 +17,8 @@ Todo: to introduce
    :titlesonly:
    :hidden:
 
-   a.slam/a.slam_bookmark.md
-   a.slam/Course.apolo.md
+   _slam/a.slam_bookmark.md
+   _slam/Course.apolo.md
 
 Vision
 ----------
@@ -31,7 +31,7 @@ Todo: to introduce
    :titlesonly:
    :hidden:
 
-   a.vision/bookmark_vision
+   _vision/bookmark_vision
    pytorch
 
 
@@ -46,7 +46,9 @@ Todo: to introduce
    :titlesonly:
    :hidden:
 
-   a2.program/a.program_bookmark
+   program/C++11
+   program/Python
+   
 
 
 Library
