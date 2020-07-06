@@ -11,4 +11,4 @@ Todo: to introduce
 
    _pytorch/torch.tutorial
    _pytorch/torch.source
-   _pytorch/torch-utils
+   _pytorch/torch.utils
