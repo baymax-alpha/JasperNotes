@@ -46,9 +46,9 @@ Todo: to introduce
    :titlesonly:
    :hidden:
  
-   _algo
-   _c++
-   _python
+   _code/algo
+   _code/c++
+   _code/python
    _code/gdb
    
    
