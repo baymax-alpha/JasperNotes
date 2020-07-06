@@ -9,6 +9,6 @@ Todo: to introduce
    :titlesonly:
    :hidden:
 
-   a.vision/Pytorch.tutorial
-   a.vision/Pytorch.source
-   a.vision/Pytorch-Utils
+   _pytorch/torch.tutorial
+   _pytorch/torch.source
+   _pytorch/torch-utils

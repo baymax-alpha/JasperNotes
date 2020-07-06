@@ -32,7 +32,7 @@ Todo: to introduce
    :hidden:
 
    _vision/bookmark_vision
-   pytorch
+   _vision/pytorch
 
 
 Program
