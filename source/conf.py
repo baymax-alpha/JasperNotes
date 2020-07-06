@@ -45,10 +45,9 @@ exclude_patterns = []
 #
 #--html_theme = 'alabaster'
 #++<
-#import sphinx_rigado_theme
-html_theme = 'sphinx_rigado_theme'
-#html_theme_path = ['sphinx_rigado_theme'.get_html_theme_path()]
-
+html_theme = 'sphinx_catalystcloud_theme'
+import sphinx_catalystcloud_theme
+html_theme_path = [sphinx_catalystcloud_theme.get_html_theme_path()]
 master_doc = 'index'
 #++>
 
