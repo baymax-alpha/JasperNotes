@@ -17,8 +17,8 @@ Todo: to introduce
    :titlesonly:
    :hidden:
 
-   _slam/a.slam_bookmark.md
-   _slam/Course.apolo.md
+   _slam/_slam_bookmark.md
+   _slam/course.apolo.md
 
 Vision
 ----------
@@ -35,7 +35,7 @@ Todo: to introduce
    _vision/pytorch
 
 
-Program
+CODE
 ----------
 
 Todo: to introduce
@@ -45,10 +45,12 @@ Todo: to introduce
    :caption: Program:
    :titlesonly:
    :hidden:
-
-   program/C++11
-   program/Python
-   program/Leetcode
+ 
+   _algo
+   _c++
+   _python
+   _code/gdb
+   
    
 
 
@@ -63,7 +65,7 @@ Todo: to introduce
    :titlesonly:
    :hidden:
 
-   a2.library/library_installation
+   _library/library_installation
 
 
 Tools
@@ -92,8 +94,8 @@ Todo: to introduce
    :titlesonly:
    :hidden:
 
-   a3.others/tools-utils
-   a3.others/error_collect
+   others/tools-utils
+   others/error_collect
    hello_sphinx
 
 
