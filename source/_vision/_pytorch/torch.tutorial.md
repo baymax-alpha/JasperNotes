@@ -1,4 +1,4 @@
-# Pytorch_Tutorial
+# torch.tutorial
 
 ---
 

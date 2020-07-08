@@ -5,6 +5,20 @@
 
 Welcome to JasperNotes's documentation!
 =======================================
+Plan.2020
+----------
+
+Todo: to introduce
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Plan.2020:
+   :titlesonly:
+   :hidden:
+
+   manifest.md
+
+
 
 SLAM
 ----------
@@ -12,13 +26,13 @@ SLAM
 Todo: to introduce
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: SLAM:
    :titlesonly:
    :hidden:
 
-   _slam/_slam_bookmark.md
-   _slam/course.apolo.md
+   _slam/_bookmark.md
+   _slam/course_apolo.md
 
 Vision
 ----------
@@ -31,27 +45,27 @@ Todo: to introduce
    :titlesonly:
    :hidden:
 
-   _vision/bookmark_vision
+   _vision/_bookmark.md
    _vision/pytorch
 
 
-CODE
+CODING
 ----------
 
 Todo: to introduce
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Program:
+   :maxdepth: 3
+   :caption: CODING:
    :titlesonly:
    :hidden:
  
+   
    _code/algo
    _code/c++
    _code/python
-   _code/gdb
-   
-   
+   _code/gdb.md
+   _code/shell.md
 
 
 Library
@@ -65,22 +79,7 @@ Todo: to introduce
    :titlesonly:
    :hidden:
 
-   _library/library_installation
-
-
-Tools
-----------
-
-Todo: to introduce
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Tools_Useful:
-   :titlesonly:
-   :hidden:
-
-   a2.tools_useful/GDB_tutories
-   a2.tools_useful/cmake_tutories
+   _library/_installation.md
    
 
 Others
@@ -94,9 +93,9 @@ Todo: to introduce
    :titlesonly:
    :hidden:
 
-   others/tools-utils
-   others/error_collect
-   hello_sphinx
+   others/utils.md
+   others/error.md
+
 
 
 

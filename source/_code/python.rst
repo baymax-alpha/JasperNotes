@@ -1,12 +1,13 @@
-Python Tutorial
+Python
 ----------
 
 Todo: to introduce
 
 .. toctree::
    :maxdepth: 2
-   :caption: Python Tutorial:
+   :caption: Python
    :titlesonly:
    :hidden:
 
-   _python/python
+   _python/base.md
+   _python/os.md
